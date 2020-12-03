@@ -1,0 +1,7 @@
+
+
+from each hash in the array of hashes returned from the api url I want to get the 
+name for the numbered list of breweries at start
+
+then i want to get the name, street, city, state, and website for the additional
+information provided when user makes a selection

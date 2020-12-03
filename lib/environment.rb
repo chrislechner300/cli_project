@@ -1,6 +1,7 @@
-#require "brewery_finder/version"
+require 'pry'
+require 'rest-client'
+require 'json'
 
-#module BreweryFinder
- # class Error < StandardError; end
-  # Your code goes here...
-#end
+require_relative "./brewery_finder/api"
+require_relative "./brewery_finder/cli"
+require_relative "./brewery_finder/brewery_finder"
