@@ -1,7 +1,23 @@
+My goal with this project is to have a user be able to access a list of breweries and then
+ be able to select a brewery from the list and get the address and website, if one is
+ availabe, for the selected brewery.
+
+first "menu"
+    |
+    |
+    V
+list of breweries
+    |
+    |
+    V
+brewery info
+    |
+    |
+    V
+select again or exit
 
 
-from each hash in the array of hashes returned from the api url I want to get the 
-name for the numbered list of breweries at start
 
-then i want to get the name, street, city, state, and website for the additional
-information provided when user makes a selection
+Thats pretty much a rough idea of how I want this project to flow.
+
+
